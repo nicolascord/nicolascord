@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicolascord
-- 👀 I’m interested in learn code
+- 👀 I’m interested to learn code
 - 🌱 I’m currently learning css, js, html
 
 <!---
